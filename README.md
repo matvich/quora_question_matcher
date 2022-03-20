@@ -23,4 +23,9 @@ In order to run the service you should define the following OS environment varia
 
 Command to run:
 
-`FLASK_APP=user_input.py flask run --port <port_number>`
+`FLASK_APP=main.py flask run --port <port_number>`
+
+## Resources
+
+I used Glove 50d embeddings that are publicly available (for example [here](http://nlp.stanford.edu/data/glove.6B.zip))
+As for Quora Question Pairs dataset: one could find it [here](https://dl.fbaipublicfiles.com/glue/data/QQP-clean.zip)
