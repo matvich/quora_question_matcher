@@ -28,4 +28,5 @@ Command to run:
 ## Resources
 
 I used Glove 50d embeddings that are publicly available (for example [here](http://nlp.stanford.edu/data/glove.6B.zip))
+
 As for Quora Question Pairs dataset: one could find it [here](https://dl.fbaipublicfiles.com/glue/data/QQP-clean.zip)
