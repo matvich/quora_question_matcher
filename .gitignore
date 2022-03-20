@@ -1,1 +1,2 @@
-resources/QQP/dev.tsv
+resources/QQP
+glove*.txt
