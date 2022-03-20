@@ -1,4 +1,4 @@
-# quora_question_matcher
+# Quora Question Matcher
 
 Repository with a project for Matching and Ranking mini-course final project
 
